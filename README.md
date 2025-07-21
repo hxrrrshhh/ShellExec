@@ -97,17 +97,16 @@ This app stores credentials locally in `credentials.json` after login. **Do not 
 ---
 
 ## 📸 Screenshots
-
-<img width="344" height="288" alt="Screenshot 2025-04-20 225336" src="https://github.com/user-attachments/assets/ea5c8437-024b-4dca-9b8d-b8bd8fecf3a7" />
-<img width="833" height="643" alt="Screenshot 2025-04-20 225238" src="https://github.com/user-attachments/assets/037b85b7-f32b-432a-b56e-56db029781b3" />
-<img width="1052" height="655" alt="Screenshot 2025-04-20 225221" src="https://github.com/user-attachments/assets/ecc07859-1963-4eb9-b01d-7da5038c6ef8" />
-<img width="801" height="635" alt="Screenshot 2025-04-20 225148" src="https://github.com/user-attachments/assets/684caa49-729a-4747-a3c9-593d66aac095" />
-<img width="398" height="424" alt="Screenshot 2025-04-20 225107" src="https://github.com/user-attachments/assets/0321aef1-7b76-4825-b588-23fd64229d16" />
-<img width="1919" height="1032" alt="Screenshot 2025-04-20 225026" src="https://github.com/user-attachments/assets/8ad3fe1f-8a54-4d90-89c0-bad9b37aefc3" />
-<img width="1919" height="1031" alt="Screenshot 2025-04-20 225004" src="https://github.com/user-attachments/assets/a808e324-8a88-4129-b432-5206a3accf63" />
-<img width="1919" height="1027" alt="Screenshot 2025-04-20 224938" src="https://github.com/user-attachments/assets/fa7f7a3e-6d2c-4943-8f99-a595e607a1cd" />
-<img width="1919" height="1033" alt="Screenshot 2025-04-20 224838" src="https://github.com/user-attachments/assets/71b4b5f5-7d64-4e20-897a-eb6100109db1" />
-<img width="1917" height="1030" alt="Screenshot 2025-04-20 224803" src="https://github.com/user-attachments/assets/bcc91ecb-5d3d-4fc0-95f5-44a4faa827ae" />
+<img width="1919" height="1033" alt="Screenshot 2025-04-20 224838" src="https://github.com/user-attachments/assets/1b244490-0042-4a01-b422-9942b45f826d" />
+<img width="1917" height="1030" alt="Screenshot 2025-04-20 224803" src="https://github.com/user-attachments/assets/ffc9964e-fb74-458c-a1a5-17e95e65de76" />
+<img width="344" height="288" alt="Screenshot 2025-04-20 225336" src="https://github.com/user-attachments/assets/ba8805bd-2d22-4882-9e94-b7e19e04a3f1" />
+<img width="833" height="643" alt="Screenshot 2025-04-20 225238" src="https://github.com/user-attachments/assets/9f75a497-a0b0-4741-a7e2-76f67960e4fe" />
+<img width="1052" height="655" alt="Screenshot 2025-04-20 225221" src="https://github.com/user-attachments/assets/a198aa32-60a2-45dd-a1d9-b131e03d0a46" />
+<img width="801" height="635" alt="Screenshot 2025-04-20 225148" src="https://github.com/user-attachments/assets/d10e079a-df8d-46d1-85ce-15d06595a973" />
+<img width="398" height="424" alt="Screenshot 2025-04-20 225107" src="https://github.com/user-attachments/assets/b53fef54-3d71-4409-b82a-c51106d68e7c" />
+<img width="1919" height="1032" alt="Screenshot 2025-04-20 225026" src="https://github.com/user-attachments/assets/ba56e8f6-e592-490d-bdd7-4610ee5223cd" />
+<img width="1919" height="1031" alt="Screenshot 2025-04-20 225004" src="https://github.com/user-attachments/assets/7550e1a2-e0e9-4244-ab62-195271f190a2" />
+<img width="1919" height="1027" alt="Screenshot 2025-04-20 224938" src="https://github.com/user-attachments/assets/e2cf7e05-7f96-4c1f-9c0d-0052a5d622da" />
 
 
 
