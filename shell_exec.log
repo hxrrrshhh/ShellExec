@@ -1,0 +1,959 @@
+2025-02-02 18:12:45,002 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-02 18:12:45,085 - INFO - Authentication (password) successful!
+2025-02-02 18:12:45,757 - INFO - Successfully connected to 172.31.102.174
+2025-02-02 18:12:52,036 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-02 18:12:55,197 - INFO - User logged out.
+2025-02-02 18:17:11,155 - ERROR - scripts.json not found.
+2025-02-02 18:17:12,109 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-02 18:17:12,188 - INFO - Authentication (password) successful!
+2025-02-02 18:17:13,047 - INFO - Successfully connected to 172.31.102.174
+2025-02-02 18:17:35,582 - ERROR - scripts.json not found.
+2025-02-02 18:19:00,581 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-02 18:19:00,661 - INFO - Authentication (password) successful!
+2025-02-02 18:19:02,046 - INFO - Successfully connected to 172.31.102.174
+2025-02-02 18:19:07,131 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-04 17:34:51,768 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 17:34:51,859 - INFO - Authentication (password) successful!
+2025-02-04 17:34:52,959 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 17:35:00,813 - WARNING - User did not provide input for 'num1'
+2025-02-04 17:36:27,780 - INFO - Executed command: /home/hxrrrshhh/scripts/script12.sh xyz
+2025-02-04 17:41:16,484 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 17:41:16,579 - INFO - Authentication (password) successful!
+2025-02-04 17:41:17,528 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 17:43:07,149 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 17:43:07,219 - INFO - Authentication (password) successful!
+2025-02-04 17:43:08,030 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 17:43:12,654 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-04 17:46:10,236 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 17:46:10,340 - INFO - Authentication (password) successful!
+2025-02-04 17:46:12,102 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 17:51:41,961 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 17:51:42,059 - INFO - Authentication (password) successful!
+2025-02-04 17:53:39,178 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 17:54:25,609 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 1 2
+2025-02-04 17:54:38,368 - INFO - User logged out.
+2025-02-04 17:54:38,918 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 17:54:39,010 - INFO - Authentication (password) successful!
+2025-02-04 17:54:39,951 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 17:55:37,696 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 2 2
+2025-02-04 17:55:42,401 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 1 2
+2025-02-04 17:56:19,938 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-04 17:56:54,512 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 17:56:54,610 - INFO - Authentication (password) successful!
+2025-02-04 17:56:55,632 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 17:57:07,414 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 1 2
+2025-02-04 17:57:13,012 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 1 2
+2025-02-04 17:58:49,726 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 17:58:49,820 - INFO - Authentication (password) successful!
+2025-02-04 17:58:50,798 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:13:28,670 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:13:28,769 - INFO - Authentication (password) successful!
+2025-02-04 18:13:29,913 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:18:46,114 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:18:46,210 - INFO - Authentication (password) successful!
+2025-02-04 18:18:46,921 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:19:43,782 - INFO - Executed command: /home/hxrrrshhh/scripts/script46.sh 
+2025-02-04 18:22:36,171 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 1
+2025-02-04 18:22:43,932 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 22
+2025-02-04 18:23:36,575 - INFO - Executed command: /home/hxrrrshhh/scripts/script2.sh 2 2
+2025-02-04 18:23:42,040 - INFO - Executed command: /home/hxrrrshhh/scripts/script7.sh 2 2
+2025-02-04 18:26:25,888 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:26:25,980 - INFO - Authentication (password) successful!
+2025-02-04 18:26:26,701 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:26:33,617 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 1
+2025-02-04 18:27:40,735 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 1
+2025-02-04 18:30:32,897 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:30:32,989 - INFO - Authentication (password) successful!
+2025-02-04 18:30:34,358 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:30:40,058 - INFO - Executed command: /home/hxrrrshhh/scripts/script/script1.sh 2
+2025-02-04 18:32:09,899 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\script1.sh 1 1
+2025-02-04 18:33:02,977 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\script1.sh 1 2
+2025-02-04 18:35:40,377 - ERROR - Unexpected error during login: [Errno None] Unable to connect to port 22 on 172.31.102.174
+2025-02-04 18:35:41,252 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:35:41,330 - INFO - Authentication (password) successful!
+2025-02-04 18:35:42,135 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:36:42,633 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\script1.sh 1 2
+2025-02-04 18:38:24,672 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:38:24,770 - INFO - Authentication (password) successful!
+2025-02-04 18:38:25,564 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:38:32,723 - INFO - Executed command: script1.sh 2 2
+2025-02-04 18:38:41,875 - INFO - Executed command: script1.sh 1 2
+2025-02-04 18:38:49,926 - INFO - User logged out.
+2025-02-04 18:38:50,129 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:38:50,200 - INFO - Authentication (password) successful!
+2025-02-04 18:38:50,949 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:39:14,501 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:39:14,596 - INFO - Authentication (password) successful!
+2025-02-04 18:39:15,391 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:39:23,798 - INFO - Executed command: script1.sh sfsdf sdfs
+2025-02-04 18:39:30,633 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 1 2
+2025-02-04 18:39:33,882 - INFO - User logged out.
+2025-02-04 18:39:34,639 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:39:34,720 - INFO - Authentication (password) successful!
+2025-02-04 18:39:35,646 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:40:08,419 - INFO - User logged out.
+2025-02-04 18:40:08,961 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:40:09,060 - INFO - Authentication (password) successful!
+2025-02-04 18:40:10,135 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:40:18,482 - INFO - Executed command: script1.sh 2 2
+2025-02-04 18:43:15,236 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:43:15,332 - INFO - Authentication (password) successful!
+2025-02-04 18:43:15,994 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:47:06,162 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:47:06,260 - INFO - Authentication (password) successful!
+2025-02-04 18:47:07,225 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:50:44,810 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:50:44,910 - INFO - Authentication (password) successful!
+2025-02-04 18:50:45,683 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:51:30,475 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:51:30,550 - INFO - Authentication (password) successful!
+2025-02-04 18:51:31,336 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:51:54,046 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:51:54,142 - INFO - Authentication (password) successful!
+2025-02-04 18:51:55,425 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:52:27,614 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\script1.sh 1 2
+2025-02-04 18:53:14,151 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\script1.sh 1 2
+2025-02-04 18:56:23,723 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 18:56:23,820 - INFO - Authentication (password) successful!
+2025-02-04 18:56:24,713 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 18:56:57,215 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/ShellExec/Scripts to be copied/script1.sh to /home/hxrrrshhh/scripts/custom_scripts/script1.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/custom_scripts/script1.sh'
+2025-02-04 18:57:08,549 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/ShellExec/Scripts to be copied/script1.sh to /home/hxrrrshhh/scripts/custom_scripts/script1.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/custom_scripts/script1.sh'
+2025-02-04 18:57:56,625 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/abc.sh to /home/hxrrrshhh/scripts/custom_scripts/abc.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/custom_scripts/abc.sh'
+2025-02-04 18:57:59,106 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/abc.sh to /home/hxrrrshhh/scripts/custom_scripts/abc.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/custom_scripts/abc.sh'
+2025-02-04 19:04:31,011 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:04:31,111 - INFO - Authentication (password) successful!
+2025-02-04 19:04:32,997 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:04:43,585 - INFO - Full script path: /home/hxrrrshhh/scripts/script1.sh
+2025-02-04 19:04:43,639 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 1 2
+2025-02-04 19:04:58,456 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/abc.sh to /home/hxrrrshhh/scripts/custom_scripts/abc.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/custom_scripts/abc.sh'
+2025-02-04 19:05:08,604 - INFO - Full script path: /home/hxrrrshhh/scripts/custom_scripts\script1.sh
+2025-02-04 19:05:08,651 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\script1.sh 1 2
+2025-02-04 19:05:57,845 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/ShellExec/Scripts to be copied/script22.sh to /home/hxrrrshhh/scripts/custom_scripts/script22.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/custom_scripts/script22.sh'
+2025-02-04 19:08:44,334 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:08:44,431 - INFO - Authentication (password) successful!
+2025-02-04 19:08:45,732 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:08:57,567 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/ShellExec/Scripts to be copied/script2.sh to /home/hxrrrshhh/scripts/custom_scripts/script2.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/custom_scripts/script2.sh'
+2025-02-04 19:09:00,978 - INFO - Full script path: /home/hxrrrshhh/scripts/custom_scripts\custom_script.sh
+2025-02-04 19:09:01,024 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\custom_script.sh 
+2025-02-04 19:09:03,596 - INFO - Full script path: /home/hxrrrshhh/scripts/custom_scripts\custom_script.sh
+2025-02-04 19:09:03,643 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\custom_script.sh 
+2025-02-04 19:12:31,979 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:12:32,070 - INFO - Authentication (password) successful!
+2025-02-04 19:12:33,229 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:12:37,984 - INFO - Base path: /home/hxrrrshhh/scripts/custom_scripts
+2025-02-04 19:12:37,984 - INFO - Script path: custom_script.sh
+2025-02-04 19:12:37,984 - INFO - Full script path: /home/hxrrrshhh/scripts/custom_scripts\custom_script.sh
+2025-02-04 19:12:38,031 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\custom_script.sh 
+2025-02-04 19:12:50,905 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/ShellExec/Scripts to be copied/script1.sh to /home/hxrrrshhh/scripts/script1.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/script1.sh'
+2025-02-04 19:16:01,622 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:16:01,720 - INFO - Authentication (password) successful!
+2025-02-04 19:16:02,567 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:16:12,911 - ERROR - Failed to copy script: C:/Users/Hxrrrsshhh/Desktop/ShellExec/Scripts to be copied/script1.sh to /home/hxrrrshhh/scripts/script1.sh, Error: [Errno 2] No such file or directory: '/home/hxrrrshhh/scripts/script1.sh'
+2025-02-04 19:16:17,330 - INFO - Full script path: /home/hxrrrshhh/scripts/custom_script.sh
+2025-02-04 19:16:17,377 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_script.sh 
+2025-02-04 19:27:59,843 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:27:59,941 - INFO - Authentication (password) successful!
+2025-02-04 19:28:00,753 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:28:50,215 - INFO - Successfully created script: /home/hxrrrshhh/scripts/custom_scripts\abc_20250204192850.sh
+2025-02-04 19:29:04,573 - INFO - Full script path: /home/hxrrrshhh/scripts/custom_scripts\abc_20250204192850.sh
+2025-02-04 19:29:04,631 - INFO - Executed command: /home/hxrrrshhh/scripts/custom_scripts\abc_20250204192850.sh 1 2
+2025-02-04 19:29:47,300 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:29:47,381 - INFO - Authentication (password) successful!
+2025-02-04 19:29:48,085 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:29:49,990 - INFO - Executed command: custom_script.sh 
+2025-02-04 19:29:55,227 - INFO - Executed command: abc_20250204192850.sh 1 2
+2025-02-04 19:34:09,115 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:34:09,191 - INFO - Authentication (password) successful!
+2025-02-04 19:34:10,151 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:39:51,851 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:39:51,951 - INFO - Authentication (password) successful!
+2025-02-04 19:39:53,211 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:42:02,479 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:42:02,571 - INFO - Authentication (password) successful!
+2025-02-04 19:42:03,277 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:42:23,289 - ERROR - Failed to delete script file: Channel closed.
+2025-02-04 19:47:36,664 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:47:36,760 - INFO - Authentication (password) successful!
+2025-02-04 19:47:37,781 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 19:47:57,798 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 19:47:57,891 - INFO - Authentication (password) successful!
+2025-02-04 19:47:59,272 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 20:17:13,480 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 20:17:13,583 - INFO - Authentication (password) successful!
+2025-02-04 20:17:14,418 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 20:29:33,329 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-04 20:29:33,431 - INFO - Authentication (password) successful!
+2025-02-04 20:29:34,374 - INFO - Successfully connected to 172.31.102.174
+2025-02-04 20:29:39,709 - INFO - Executed command: bash -c "#!/bin/bash
+
+# Check if the correct number of arguments are passed
+if [ "$#" -ne 2 ]; then
+    echo "Error: Two numbers are required."
+    exit 1
+fi
+
+# Assign the arguments to variables
+num1=$1
+num2=$2
+
+# Add the numbers
+sum=$((num1 + num2))
+
+# Display the result
+echo "The sum of $num1 and $num2 is $sum"" 1 2
+2025-02-04 20:29:51,565 - INFO - Executed command: bash -c "" 
+2025-02-05 19:16:37,219 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:16:37,330 - INFO - Authentication (password) successful!
+2025-02-05 19:16:38,494 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:16:55,990 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\custom_script.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\custom_script.sh'
+2025-02-05 19:17:12,507 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:17:12,607 - INFO - Authentication (password) successful!
+2025-02-05 19:17:13,451 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:17:34,428 - INFO - Executed command: bash -c "sdfsfdsf" 
+2025-02-05 19:18:20,490 - INFO - Executed command: bash -c "pwd" 
+2025-02-05 19:18:47,343 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:18:47,438 - INFO - Authentication (password) successful!
+2025-02-05 19:18:48,214 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:18:49,969 - INFO - Executed command: bash -c "pwd" 
+2025-02-05 19:21:06,894 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:21:06,988 - INFO - Authentication (password) successful!
+2025-02-05 19:21:07,720 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:21:10,002 - INFO - Executed command: bash -c "pwd" 
+2025-02-05 19:24:29,710 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:24:29,787 - INFO - Authentication (password) successful!
+2025-02-05 19:24:30,599 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:24:36,140 - INFO - Executed command: bash -c "pwd" 
+2025-02-05 19:24:41,889 - INFO - Executed command: /home/hxrrrshhh/scripts\script1.sh 1 2
+2025-02-05 19:25:02,508 - INFO - Executed command: /home/hxrrrshhh/scripts\script2.sh 2 2
+2025-02-05 19:26:40,525 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:26:40,628 - INFO - Authentication (password) successful!
+2025-02-05 19:26:41,633 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:26:45,190 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-05 19:29:39,255 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:29:39,327 - INFO - Authentication (password) successful!
+2025-02-05 19:29:40,316 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:29:47,758 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 212 123
+2025-02-05 19:29:53,745 - INFO - Executed command: /home/hxrrrshhh/scripts/script16.sh 
+2025-02-05 19:29:56,808 - INFO - Executed command: /home/hxrrrshhh/scripts/script32.sh 
+2025-02-05 19:29:59,526 - INFO - Executed command: bash -c "pwd" 
+2025-02-05 19:31:39,767 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:31:39,868 - INFO - Authentication (password) successful!
+2025-02-05 19:31:40,524 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:37:05,621 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+num1="$1"
+num2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$num1" =~ ^-?[0-9]+$ ]] || ! [[ "$num2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((num1 + num2))
+
+echo "The sum of $num1 and $num2 is: $sum"" 2 2
+2025-02-05 19:37:16,371 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+num1="$1"
+num2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$num1" =~ ^-?[0-9]+$ ]] || ! [[ "$num2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((num1 + num2))
+
+echo "The sum of $num1 and $num2 is: $sum"" 2 2
+2025-02-05 19:37:29,025 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+num1="$1"
+num2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$num1" =~ ^-?[0-9]+$ ]] || ! [[ "$num2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((num1 + num2))
+
+echo "The sum of $num1 and $num2 is: $sum"" 2 2
+2025-02-05 19:37:35,894 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+num1="$1"
+num2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$num1" =~ ^-?[0-9]+$ ]] || ! [[ "$num2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((num1 + num2))
+
+echo "The sum of $num1 and $num2 is: $sum"" 2 2
+2025-02-05 19:38:42,522 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+num1="$1"
+num2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$num1" =~ ^-?[0-9]+$ ]] || ! [[ "$num2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((num1 + num2))
+
+echo "The sum of $num1 and $num2 is: $sum"" 2 2
+2025-02-05 19:45:09,141 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:45:09,237 - INFO - Authentication (password) successful!
+2025-02-05 19:45:09,786 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:46:15,031 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+1="$1"
+1="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$1" =~ ^-?[0-9]+$ ]] || ! [[ "$1" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((1 + 1))
+
+echo "The sum of $1 and $1 is: $sum""
+2025-02-05 19:46:28,621 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+2="$1"
+2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$2" =~ ^-?[0-9]+$ ]] || ! [[ "$2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((2 + 2))
+
+echo "The sum of $2 and $2 is: $sum""
+2025-02-05 19:50:43,380 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:50:43,478 - INFO - Authentication (password) successful!
+2025-02-05 19:50:44,119 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:50:49,345 - INFO - Executed command: bash -c "#!/bin/bash
+
+# Prompt the user for the first number
+read -p "Enter the first number: " 2
+
+# Prompt the user for the second number
+read -p "Enter the second number: " 2
+
+# Check if the inputs are valid numbers
+if ! [[ "$2" =~ ^-?[0-9]+$ ]] ; then
+  echo "Error: Invalid input for the first number. Please enter an integer."
+  exit 1
+fi
+
+if ! [[ "$2" =~ ^-?[0-9]+$ ]] ; then
+  echo "Error: Invalid input for the second number. Please enter an integer."
+  exit 1
+fi
+
+# Calculate the sum
+sum=$((2 + 2))
+
+# Print the result
+echo "The sum of $2 and $2 is: $sum"
+
+exit 0"
+2025-02-05 19:52:20,395 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:52:20,491 - INFO - Authentication (password) successful!
+2025-02-05 19:52:22,116 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:53:37,336 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:53:37,415 - INFO - Authentication (password) successful!
+2025-02-05 19:53:38,503 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:53:41,178 - INFO - Executed command: bash -c "pwd"
+2025-02-05 19:53:43,300 - INFO - Executed command: bash -c "pwd"
+2025-02-05 19:53:48,041 - WARNING - User did not provide input for 'num1'
+2025-02-05 19:54:57,386 - ERROR - Unexpected error during login: [Errno None] Unable to connect to port 22 on 172.31.102.174
+2025-02-05 19:55:06,251 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:55:06,333 - INFO - Authentication (password) successful!
+2025-02-05 19:55:07,139 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:55:37,263 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 19:55:37,362 - INFO - Authentication (password) successful!
+2025-02-05 19:55:37,975 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 19:55:47,121 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+2="$1"
+2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$2" =~ ^-?[0-9]+$ ]] || ! [[ "$2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((2 + 2))
+
+echo "The sum of $2 and $2 is: $sum""
+2025-02-05 20:00:07,759 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:00:07,851 - INFO - Authentication (password) successful!
+2025-02-05 20:00:08,695 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:01:08,216 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:01:08,312 - INFO - Authentication (password) successful!
+2025-02-05 20:01:09,139 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:05:07,538 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:05:07,641 - INFO - Authentication (password) successful!
+2025-02-05 20:05:08,469 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:05:34,839 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:05:34,931 - INFO - Authentication (password) successful!
+2025-02-05 20:05:35,768 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:08:14,542 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:08:14,641 - INFO - Authentication (password) successful!
+2025-02-05 20:08:15,953 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:09:16,659 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+2="$1"
+2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$2" =~ ^-?[0-9]+$ ]] || ! [[ "$2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((2 + 2))
+
+echo "The sum of $2 and $2 is: $sum""
+2025-02-05 20:09:26,140 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+2="$1"
+2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$2" =~ ^-?[0-9]+$ ]] || ! [[ "$2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((2 + 2))
+
+echo "The sum of $2 and $2 is: $sum""
+2025-02-05 20:13:25,839 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:13:25,931 - INFO - Authentication (password) successful!
+2025-02-05 20:13:26,804 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:16:14,982 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:16:15,081 - INFO - Authentication (password) successful!
+2025-02-05 20:16:15,847 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:16:49,418 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:16:49,511 - INFO - Authentication (password) successful!
+2025-02-05 20:16:50,203 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:21:28,759 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:21:28,861 - INFO - Authentication (password) successful!
+2025-02-05 20:21:29,617 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:22:35,649 - INFO - Executed command: bash -c "SAD='2' SADA='2' #!/bin/bash
+# Script to add two numbers
+
+num1="$1"
+num2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$num1" =~ ^-?[0-9]+$ ]] || ! [[ "$num2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((num1 + num2))
+
+echo "The sum of $num1 and $num2 is: $sum""
+2025-02-05 20:22:41,900 - INFO - Executed command: bash -c "NUM1_CUSTOM='2' NUM2_CUSTOM='2' "
+2025-02-05 20:25:40,620 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 20:25:40,721 - INFO - Authentication (password) successful!
+2025-02-05 20:25:41,849 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 20:26:28,993 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script1.sh
+2025-02-05 22:46:14,408 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 22:46:14,512 - INFO - Authentication (password) successful!
+2025-02-05 22:46:15,553 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 22:46:18,773 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script1.sh
+2025-02-05 22:47:18,640 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\abc.sh
+2025-02-05 22:47:24,701 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\abc.sh
+2025-02-05 22:47:54,162 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\abc.sh
+2025-02-05 22:47:56,893 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\abc.sh
+2025-02-05 22:48:03,030 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\abc.sh
+2025-02-05 22:48:39,036 - INFO - Executed command: bash -c "#!/bin/bash
+
+# Access environment variables
+mount_point="${MOUNT_POINT}"
+threshold="${THRESHOLD}"
+
+df -h | grep "${mount_point}" | awk '{print $4}' | tr -d 'G' | awk -v threshold="$threshold" '{if ($1 < threshold) print "Disk space is low!"}'"
+2025-02-05 22:55:30,300 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 22:55:30,401 - INFO - Authentication (password) successful!
+2025-02-05 22:55:31,833 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 22:56:02,737 - ERROR - Failed to upload script C:/Users/Hxrrrsshhh/Desktop/abc.sh to /home/hxrrrshhh/scripts/custom_scripts\abc.sh: Channel closed.
+2025-02-05 22:56:03,708 - ERROR - Failed to save script assaqasas: Channel closed.
+2025-02-05 22:57:02,412 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 22:57:02,492 - INFO - Authentication (password) successful!
+2025-02-05 22:57:03,353 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 22:57:10,906 - INFO - Executed command: bash -c "#!/bin/bash
+
+# Access environment variables
+mount_point="${MOUNT_POINT}"
+threshold="${THRESHOLD}"
+
+df -h | grep "${mount_point}" | awk '{print $4}' | tr -d 'G' | awk -v threshold="$threshold" '{if ($1 < threshold) print "Disk space is low!"}'"
+2025-02-05 22:57:48,355 - INFO - Executed command: bash -c "#!/bin/bash
+
+# Access environment variables
+mount_point="${MOUNT_POINT}"
+threshold="${THRESHOLD}"
+
+df -h | grep "${mount_point}" | awk '{print $4}' | tr -d 'G' | awk -v threshold="$threshold" '{if ($1 < threshold) print "Disk space is low!"}'"
+2025-02-05 22:57:53,772 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\add_custom.sh
+2025-02-05 22:57:54,761 - INFO - Executed command: bash -c "#!/bin/bash
+# Script to add two numbers
+
+num1="$1"
+num2="$2"
+
+# Check if the inputs are numbers
+if ! [[ "$num1" =~ ^-?[0-9]+$ ]] || ! [[ "$num2" =~ ^-?[0-9]+$ ]]; then
+  echo "Error: Both inputs must be integers."
+  exit 1
+fi
+
+sum=$((num1 + num2))
+
+echo "The sum of $num1 and $num2 is: $sum""
+2025-02-05 22:59:32,079 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 22:59:32,172 - INFO - Authentication (password) successful!
+2025-02-05 22:59:33,019 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 22:59:51,913 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\add_custom.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\add_custom.sh'
+2025-02-05 23:00:30,097 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\ddsfdfsdfs.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\ddsfdfsdfs.sh'
+2025-02-05 23:00:45,716 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\sadasda.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\sadasda.sh'
+2025-02-05 23:00:55,034 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\script1.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\script1.sh'
+2025-02-05 23:01:03,508 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\efwasd.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\efwasd.sh'
+2025-02-05 23:01:11,949 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\erterf.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\erterf.sh'
+2025-02-05 23:05:07,970 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\abc.sh
+2025-02-05 23:06:09,605 - INFO - Executed command: bash -c "NUM1='1' NUM2='2' #!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-05 23:06:18,900 - INFO - Executed command: bash -c "NUM1='2' NUM2='2' #!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-05 23:06:24,657 - INFO - Executed command: bash -c "NUM1='1' NUM2='2' #!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-05 23:07:24,323 - INFO - Executed command: bash -c "NUM1='2' NUM2='2' #!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+# Handle empty input
+if [ -z "$NUM1" ]; then
+  NUM1="0"  # Default value
+fi
+
+if [ -z "$NUM2" ]; then
+  NUM2="0"  # Default value
+fi
+
+# Validate that NUM1 and NUM2 are numbers
+if ! [[ "$NUM1" =~ ^-?[0-9]+(\.[0-9]+)?$ ]]; then
+  echo "Error: NUM1 is not a valid number."
+  exit 1
+fi
+
+if ! [[ "$NUM2" =~ ^-?[0-9]+(\.[0-9]+)?$ ]]; then
+  echo "Error: NUM2 is not a valid number."
+  exit 1
+fi
+
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-05 23:08:18,942 - INFO - Executed command: bash -c "NUM1='2' NUM2='2' #!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+# Handle empty input
+if [ -z "$NUM1" ]; then
+  NUM1="0"  # Default value
+fi
+
+if [ -z "$NUM2" ]; then
+  NUM2="0"  # Default value
+fi
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-05 23:09:40,106 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:09:40,201 - INFO - Authentication (password) successful!
+2025-02-05 23:09:40,936 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:09:48,121 - INFO - Executed command: bash -c "NUM1='2' NUM2='2' #!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+# Handle empty input
+if [ -z "$NUM1" ]; then
+  NUM1="0"  # Default value
+fi
+
+if [ -z "$NUM2" ]; then
+  NUM2="0"  # Default value
+fi
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-05 23:10:53,120 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:10:53,221 - INFO - Authentication (password) successful!
+2025-02-05 23:10:54,117 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:10:55,377 - INFO - Executed command: bash -c "#!/bin/bash
+
+# Get disk space usage for the root partition
+DISK_USAGE=$(df -h / | awk 'NR==2 {print $5}' | tr -d '%')
+
+# Display the result
+echo "Disk space usage for /: $DISK_USAGE%""
+2025-02-05 23:12:44,373 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:12:44,471 - INFO - Authentication (password) successful!
+2025-02-05 23:12:45,259 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:12:58,384 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script14.sh
+2025-02-05 23:15:54,089 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:15:54,181 - INFO - Authentication (password) successful!
+2025-02-05 23:15:54,860 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:16:47,108 - ERROR - Error reading script /home/hxrrrshhh/scripts: cat: /home/hxrrrshhh/scripts: Is a directory
+
+2025-02-05 23:16:57,364 - ERROR - Error reading script /home/hxrrrshhh/scripts/: cat: /home/hxrrrshhh/scripts/: Is a directory
+
+2025-02-05 23:18:04,997 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:18:05,091 - INFO - Authentication (password) successful!
+2025-02-05 23:18:05,858 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:18:14,184 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script12.sh
+2025-02-05 23:24:53,898 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:24:53,991 - INFO - Authentication (password) successful!
+2025-02-05 23:24:54,895 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:24:58,175 - INFO - Executed command: bash -c "123"
+2025-02-05 23:26:21,091 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:26:21,171 - INFO - Authentication (password) successful!
+2025-02-05 23:26:22,149 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:26:54,086 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script5.sh
+2025-02-05 23:31:04,046 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:31:04,142 - INFO - Authentication (password) successful!
+2025-02-05 23:31:04,962 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:33:52,622 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:33:52,722 - INFO - Authentication (password) successful!
+2025-02-05 23:33:53,599 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:34:09,059 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script9.sh
+2025-02-05 23:34:13,631 - ERROR - Error reading remote script script10.sh: cat: script10.sh: No such file or directory
+
+2025-02-05 23:35:08,198 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:35:08,291 - INFO - Authentication (password) successful!
+2025-02-05 23:35:09,081 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:35:14,440 - ERROR - Error reading remote script script14.sh: cat: script14.sh: No such file or directory
+
+2025-02-05 23:36:24,629 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:36:24,731 - INFO - Authentication (password) successful!
+2025-02-05 23:36:25,374 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:38:46,809 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:38:46,902 - INFO - Authentication (password) successful!
+2025-02-05 23:38:47,546 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:39:05,013 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:39:05,112 - INFO - Authentication (password) successful!
+2025-02-05 23:39:06,263 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:53:55,430 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:53:55,531 - INFO - Authentication (password) successful!
+2025-02-05 23:53:56,302 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:56:25,139 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script15.sh
+2025-02-05 23:59:30,658 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-05 23:59:30,750 - INFO - Authentication (password) successful!
+2025-02-05 23:59:31,459 - INFO - Successfully connected to 172.31.102.174
+2025-02-05 23:59:36,540 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script1.sh
+2025-02-05 23:59:40,391 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script16.sh
+2025-02-05 23:59:42,022 - INFO - Executed command: bash -c "123"
+2025-02-06 00:04:43,636 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:04:43,731 - INFO - Authentication (password) successful!
+2025-02-06 00:04:44,440 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:04:51,946 - ERROR - Script file not found: /home/hxrrrshhh/scripts\script1.sh
+2025-02-06 00:13:06,947 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:13:07,040 - INFO - Authentication (password) successful!
+2025-02-06 00:13:07,852 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:13:10,605 - INFO - Executed command: bash /home/hxrrrshhh/scripts\script1.sh
+2025-02-06 00:13:12,787 - INFO - Executed command: bash /home/hxrrrshhh/scripts\script2.sh
+2025-02-06 00:13:14,828 - INFO - Executed command: bash /home/hxrrrshhh/scripts\script17.sh
+2025-02-06 00:13:46,719 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:13:46,820 - INFO - Authentication (password) successful!
+2025-02-06 00:13:47,557 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:13:53,944 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 
+2025-02-06 00:13:55,826 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 
+2025-02-06 00:13:57,339 - INFO - Executed command: /home/hxrrrshhh/scripts/script2.sh 
+2025-02-06 00:14:11,778 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:14:11,871 - INFO - Authentication (password) successful!
+2025-02-06 00:14:12,703 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:14:15,422 - ERROR - Script file not found: /home/hxrrrshhh/scripts\script2.sh
+2025-02-06 00:14:23,404 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:14:23,501 - INFO - Authentication (password) successful!
+2025-02-06 00:14:24,263 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:14:26,815 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script1.sh
+2025-02-06 00:14:33,462 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:14:33,561 - INFO - Authentication (password) successful!
+2025-02-06 00:14:34,219 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:14:37,500 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script1.sh
+2025-02-06 00:14:45,575 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:14:45,671 - INFO - Authentication (password) successful!
+2025-02-06 00:14:46,407 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:14:49,790 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script1.sh
+2025-02-06 00:14:56,234 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:14:56,331 - INFO - Authentication (password) successful!
+2025-02-06 00:14:57,058 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:14:59,738 - ERROR - Script file not found: /home/hxrrrshhh/scripts/custom_scripts\script8.sh
+2025-02-06 00:15:06,460 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:15:06,561 - INFO - Authentication (password) successful!
+2025-02-06 00:15:07,406 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:15:16,738 - INFO - Executed command: bash -c "123"
+2025-02-06 00:15:24,862 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:15:24,961 - INFO - Authentication (password) successful!
+2025-02-06 00:15:25,663 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:15:34,968 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:15:35,061 - INFO - Authentication (password) successful!
+2025-02-06 00:15:36,043 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:15:49,883 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:15:49,981 - INFO - Authentication (password) successful!
+2025-02-06 00:15:50,721 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:16:02,002 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:16:02,101 - INFO - Authentication (password) successful!
+2025-02-06 00:16:03,365 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:16:14,867 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:16:14,941 - INFO - Authentication (password) successful!
+2025-02-06 00:16:15,783 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:16:17,634 - INFO - Executed command: /home/hxrrrshhh/scripts/script8.sh 
+2025-02-06 00:16:20,079 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 
+2025-02-06 00:16:28,113 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:16:28,211 - INFO - Authentication (password) successful!
+2025-02-06 00:16:28,947 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:16:30,304 - INFO - Executed command: /home/hxrrrshhh/scripts/script2.sh 
+2025-02-06 00:16:48,114 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:16:48,211 - INFO - Authentication (password) successful!
+2025-02-06 00:16:49,174 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:16:50,471 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 
+2025-02-06 00:16:57,691 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 
+2025-02-06 00:19:57,070 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:19:57,166 - INFO - Authentication (password) successful!
+2025-02-06 00:19:58,449 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:20:02,395 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-06 00:20:07,675 - INFO - Executed command: bash -c "123" 
+2025-02-06 00:22:17,905 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:22:18,001 - INFO - Authentication (password) successful!
+2025-02-06 00:22:20,148 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:22:25,766 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-06 00:22:28,350 - INFO - Executed command: bash -c "123" 
+2025-02-06 00:22:51,841 - INFO - Executed command: bash -c "#!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM"" 
+2025-02-06 00:23:15,421 - INFO - Executed command: bash -c "pwd" 
+2025-02-06 00:23:49,946 - INFO - Executed command: bash -c "ls" 
+2025-02-06 00:30:01,477 - INFO - Executed command: bash -c "123" 
+2025-02-06 00:31:27,420 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:31:27,520 - INFO - Authentication (password) successful!
+2025-02-06 00:31:28,186 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:31:46,851 - INFO - Executed command: bash -c "pwd"
+2025-02-06 00:32:05,507 - INFO - Executed command: bash -c "#!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-06 00:33:32,885 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:33:32,977 - INFO - Authentication (password) successful!
+2025-02-06 00:33:34,725 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:33:40,090 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:33:40,186 - INFO - Authentication (password) successful!
+2025-02-06 00:33:40,850 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:33:42,459 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:33:47,576 - INFO - Executed command: /home/hxrrrshhh/scripts/script8.sh
+2025-02-06 00:33:49,849 - INFO - Executed command: /home/hxrrrshhh/scripts/script2.sh
+2025-02-06 00:34:05,479 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:34:18,028 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:34:18,121 - INFO - Authentication (password) successful!
+2025-02-06 00:34:18,908 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:34:20,056 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:36:16,190 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:36:16,290 - INFO - Authentication (password) successful!
+2025-02-06 00:36:16,888 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:36:21,589 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:36:27,469 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:37:10,802 - INFO - Executed command: bash -c "#!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-06 00:37:12,859 - INFO - Executed command: bash -c "pwd"
+2025-02-06 00:37:14,200 - INFO - Executed command: bash -c "123"
+2025-02-06 00:37:17,218 - INFO - Executed command: /home/hxrrrshhh/scripts/script8.sh
+2025-02-06 00:37:38,071 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:37:45,858 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:37:50,247 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:37:50,346 - INFO - Authentication (password) successful!
+2025-02-06 00:37:51,320 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:37:55,885 - INFO - Executed command: /home/hxrrrshhh/scripts/script2.sh
+2025-02-06 00:40:09,878 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:40:09,972 - INFO - Authentication (password) successful!
+2025-02-06 00:40:10,794 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:40:14,372 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:41:18,261 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:41:18,356 - INFO - Authentication (password) successful!
+2025-02-06 00:41:19,123 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:41:23,669 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh
+2025-02-06 00:41:27,663 - INFO - Executed command: /home/hxrrrshhh/scripts/script7.sh
+2025-02-06 00:42:40,176 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:42:40,254 - INFO - Authentication (password) successful!
+2025-02-06 00:42:41,044 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:42:46,343 - WARNING - User did not provide input for 'directory_name'
+2025-02-06 00:42:49,647 - INFO - Executed command: /home/hxrrrshhh/scripts/script12.sh
+2025-02-06 00:43:21,711 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:43:21,807 - INFO - Authentication (password) successful!
+2025-02-06 00:43:22,716 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:43:26,434 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-06 00:43:48,572 - INFO - Executed command: bash -c "123"
+2025-02-06 00:43:49,893 - INFO - Executed command: bash -c "ls"
+2025-02-06 00:43:51,294 - INFO - Executed command: bash -c "pwd"
+2025-02-06 00:43:55,384 - INFO - Executed command: bash -c "#!/bin/bash
+
+NUM1="{{NUM1}}"
+NUM2="{{NUM2}}"
+
+SUM=$(echo "$NUM1 + $NUM2" | bc)
+
+echo "The sum of $NUM1 and $NUM2 is: $SUM""
+2025-02-06 00:44:21,987 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-06 00:46:29,615 - WARNING - User did not provide input for 'directory'
+2025-02-06 00:55:22,492 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 00:55:22,591 - INFO - Authentication (password) successful!
+2025-02-06 00:55:23,488 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 00:55:28,564 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 3 3
+2025-02-06 01:01:03,400 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 01:01:03,497 - INFO - Authentication (password) successful!
+2025-02-06 01:01:04,372 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 01:01:06,153 - INFO - Executed command: bash -c ""
+2025-02-06 01:01:07,599 - INFO - Executed command: bash -c ""
+2025-02-06 01:01:12,187 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-06 01:03:59,392 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 01:03:59,485 - INFO - Authentication (password) successful!
+2025-02-06 01:04:00,848 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 01:04:06,669 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-02-06 01:04:44,737 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\asas.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\asas.sh'
+2025-02-06 01:04:55,739 - ERROR - Failed to delete script file /home/hxrrrshhh/scripts/custom_scripts\aaaaa.sh: [WinError 2] The system cannot find the file specified: '/home/hxrrrshhh/scripts/custom_scripts\\aaaaa.sh'
+2025-02-06 01:12:22,731 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 01:12:22,831 - INFO - Authentication (password) successful!
+2025-02-06 01:12:24,116 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 01:12:48,800 - INFO - User logged out.
+2025-02-06 01:13:10,320 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-06 01:13:10,429 - INFO - Authentication (password) successful!
+2025-02-06 01:13:11,383 - INFO - Successfully connected to 172.31.102.174
+2025-02-06 01:13:31,202 - INFO - Executed command: bash -c "pwd"
+2025-02-06 01:14:04,850 - INFO - Executed command: bash -c "pwd"
+2025-02-06 01:14:06,545 - INFO - Executed command: bash -c "#!/bin/bash
+date
+"
+2025-02-06 01:14:42,884 - INFO - User logged out.
+2025-02-07 15:20:42,961 - ERROR - Unexpected error during login: [Errno 2] No such file or directory: 'id_rsa'
+2025-02-07 15:20:59,090 - ERROR - Unexpected error during login: [Errno 2] No such file or directory: 'id_rsa'
+2025-02-07 15:26:38,246 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-07 15:26:38,316 - INFO - Authentication (password) failed.
+2025-02-07 15:26:39,466 - ERROR - Unexpected error during login: [Errno 2] No such file or directory: 'id_rsa'
+2025-02-07 15:26:45,841 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-07 15:26:45,947 - INFO - Authentication (password) failed.
+2025-02-07 15:26:48,038 - ERROR - Unexpected error during login: [Errno 2] No such file or directory: 'id_rsa'
+2025-02-07 15:26:49,085 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-07 15:26:49,187 - INFO - Authentication (password) failed.
+2025-02-07 15:26:51,885 - ERROR - Unexpected error during login: [Errno 2] No such file or directory: 'id_rsa'
+2025-02-07 15:27:06,962 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-07 15:27:07,044 - INFO - Authentication (password) failed.
+2025-02-07 15:27:08,527 - ERROR - Unexpected error during login: [Errno 2] No such file or directory: 'id_rsa'
+2025-02-07 23:36:14,259 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-07 23:36:14,338 - INFO - Authentication (password) successful!
+2025-02-07 23:36:15,226 - INFO - Successfully connected to 172.31.102.174
+2025-02-08 00:38:32,060 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-08 00:38:32,168 - INFO - Authentication (password) successful!
+2025-02-08 00:38:33,174 - INFO - Successfully connected to 172.31.102.174
+2025-02-08 00:42:52,124 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-02-08 00:42:52,208 - INFO - Authentication (password) successful!
+2025-02-08 00:42:53,479 - INFO - Successfully connected to 172.31.102.174
+2025-02-08 00:43:05,946 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-03-01 13:32:54,532 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-03-01 13:32:54,638 - INFO - Authentication (password) successful!
+2025-03-01 13:32:55,485 - INFO - Successfully connected to 172.31.102.174
+2025-03-01 14:37:07,170 - INFO - Executed command: /home/hxrrrshhh/scripts/script2.sh 2 2
+2025-03-06 20:08:26,839 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-03-06 20:08:26,950 - INFO - Authentication (password) successful!
+2025-03-06 20:08:27,982 - INFO - Successfully connected to 172.31.102.174
+2025-03-06 20:08:31,653 - INFO - Executed command: /home/hxrrrshhh/scripts/script20.sh
+2025-03-06 20:08:38,685 - INFO - Executed command: bash -c "pwd"
+2025-03-06 20:08:42,803 - INFO - User logged out.
+2025-03-10 10:19:46,666 - ERROR - Unexpected error during login: [Errno None] Unable to connect to port 22 on 172.31.102.174
+2025-03-10 10:20:26,548 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-03-10 10:20:26,654 - INFO - Authentication (password) successful!
+2025-03-10 10:20:27,567 - INFO - Successfully connected to 172.31.102.174
+2025-03-19 22:48:35,024 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-03-19 22:48:35,325 - INFO - Authentication (publickey) failed.
+2025-03-19 22:48:35,348 - INFO - Authentication (password) successful!
+2025-03-19 22:48:36,846 - INFO - Successfully connected to 172.31.102.174
+2025-03-19 23:26:50,590 - INFO - User logged out.
+2025-03-19 23:27:18,378 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-03-19 23:27:18,628 - INFO - Authentication (publickey) failed.
+2025-03-19 23:27:18,653 - INFO - Authentication (password) successful!
+2025-03-19 23:27:19,549 - INFO - Successfully connected to 172.31.102.174
+2025-03-19 23:27:27,658 - INFO - Executed command: /home/hxrrrshhh/scripts/script1.sh 2 2
+2025-03-19 23:27:37,555 - INFO - Executed command: /home/hxrrrshhh/scripts/script3.sh 9 9
+2025-03-19 23:27:43,328 - INFO - Executed command: /home/hxrrrshhh/scripts/script16.sh
+2025-03-19 23:27:50,904 - INFO - Executed command: /home/hxrrrshhh/scripts/script37.sh
+2025-03-19 23:27:55,481 - INFO - Executed command: /home/hxrrrshhh/scripts/script46.sh
+2025-03-19 23:28:03,894 - WARNING - User did not provide input for 'directory'
+2025-03-19 23:28:06,000 - INFO - Executed command: /home/hxrrrshhh/scripts/script32.sh
+2025-04-20 22:48:56,205 - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-04-20 22:48:56,565 - INFO - Authentication (publickey) failed.
+2025-04-20 22:48:56,590 - INFO - Authentication (password) successful!
+2025-04-20 22:48:57,768 - INFO - Successfully connected to 172.31.102.174
